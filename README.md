@@ -263,3 +263,9 @@ Research-grade RAG experimentation
 Hallucination-resistant LLM pipelines
 
 Educational AI systems
+
+BY SATYAM
+
+ML & GEN AI ENTHUSIAST
+
+LINKEDIN: https://www.linkedin.com/in/satyam-singh-61152a334/
